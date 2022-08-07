@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saggy11 (Sagar)
+- 👋 Hi, I’m Sagar
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning PYTHON Libraries
 - 💞️ I’m looking to collaborate on data visualization task
